@@ -1,4 +1,4 @@
-# Daiabetes Patient Analysis using Mixture Models
+# Diabetes Patient Analysis using Mixture Models
 
 A project to analyse Diabetes Data and test the different Mixture Models on them. All the models are coded from scratch in Python and NumPy.
 
